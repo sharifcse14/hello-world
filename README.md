@@ -1,2 +1,4 @@
 # hello-world
-first repository
+
+hi! sharif
+bangladesh is a very small country.......
